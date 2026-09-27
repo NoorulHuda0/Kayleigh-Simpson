@@ -1,0 +1,6 @@
+{
+  "name": "Kayleigh Simpson - Legal Services",
+  "description": "Trusted Legal Support based in Saltcoats, Scotland. Providing legal consultation, contract drafting, dispute resolution, and comprehensive Scottish legal assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
